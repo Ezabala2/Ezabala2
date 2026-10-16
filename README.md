@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Elijah Zabala! 👋
 
-<!--
-**Ezabala2/Ezabala2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Specialist | Cybersecurity | Network Engineering | Cloud Computing | Software Development
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT professional and student pursuing a career in cybersecurity, cloud computing, network engineering, and software development. I'm passionate about technology, solving technical problems, securing systems, and building reliable IT solutions.
+
+## 🎓 Education
+
+- **A.S. in Cybersecurity & Network Engineering Technology**
+- **B.A.S. in Computing Technology & Software Development**
+  - Specialization: Cloud Computing
+
+## 💻 Technical Skills & Areas of Study
+
+**Cybersecurity**
+- Vulnerability Assessment
+- Network Reconnaissance
+- Penetration Testing Fundamentals
+- Network Traffic Analysis
+- Security Tools: Nmap, Wireshark, Kali Linux
+
+**Networking & Systems**
+- TCP/IP Networking
+- Linux Administration
+- Network Troubleshooting
+- Windows and Linux Environments
+
+**Cloud Computing**
+- Cloud Infrastructure Fundamentals
+- Cloud Security
+- Virtualization
+- Cloud Computing Technologies
+
+**Software Development**
+- SQL & Database Fundamentals
+- Programming Fundamentals
+- Scripting & Automation
+
+## 🚀 Projects
+
+This portfolio will feature hands-on technical projects, including:
+
+- Cybersecurity Labs & Security Assessments
+- Network Scanning & Traffic Analysis
+- Linux System Administration
+- SQL & Database Projects
+- Cloud Computing & Automation Projects
+
+## 🎯 Career Goals
+
+My goal is to continue developing my technical expertise and pursue professional opportunities in cybersecurity, cloud engineering, network engineering, and software development.
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Elijah Zabala](https://www.linkedin.com/in/elijah-zabala-17162840b)
+- **Portfolio:** [My Website](https://sites.google.com/view/zabala-portfolio)
+
+---
+
+*Continuously learning, building, and improving my technical skills.*
