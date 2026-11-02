@@ -1,5 +1,3 @@
-Elijah Zabala
-
 IT Specialist | Cybersecurity | Network Engineering | Cloud Computing | Software Development
 
 
