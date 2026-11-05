@@ -36,4 +36,3 @@ Software Development
 
 Connect With Me
 LinkedIn: [Elijah Zabala](https://www.linkedin.com/in/elijah-zabala-17162840b)
-Portfolio: [My Website](https://sites.google.com/view/zabala-portfolio)
